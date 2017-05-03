@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.robimolte.subitotest.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Insert owner Repo here"
+        android:id="@+id/ownerRepoLabel"/>
+    <EditText
+        android:layout_below="@+id/ownerRepoLabel"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:maxLines="1"
+        android:inputType="text"
+        android:id="@+id/ownerRepo"/>
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/ownerRepo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Insert name Repo here"
+        android:id="@+id/nameRepoLabel"/>
+
+    <EditText
+        android:layout_below="@+id/nameRepoLabel"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:maxLines="1"
+        android:inputType="text"
+        android:id="@+id/nameRepo"/>
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:id="@+id/searchButton"
+        android:layout_below="@id/nameRepo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="myClickHandler"
+        android:text="GO"/>
+
+
+</RelativeLayout>

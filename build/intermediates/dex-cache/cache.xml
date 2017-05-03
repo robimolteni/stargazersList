@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_b608843f8baa1a0d19890dce1dfceecd3a510c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_7ad863b2514c3b3cc4123e39ba6cdbbf57333700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_dbf6abb173b5f99306b3b8c426027807851d7a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.2/febfd2d9e89bde4c3a9723bcd9522cba96bddac7/dagger-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/dagger-2.2_4a7601af30ffe3231c6d029e536cc4c38c94241a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_747115d61360436e875721a13787f6b6d588ff63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/gson-2.6.2_bbd6a6a3ac6088f51ebaf480ff5e4591b66424d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_109bcd7558574b657699ecd7ea889b2a18f66e7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.1_a0363dab7ab98e0ea67568f799d24237b65fbbd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_6fa6d09191ceee3d68ff5c62d4a1d2275fe114f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_ac3e627408825448a6f885e1bb6247bedea17cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/javax.inject-1_209f66ad4473fecf814a6e501569e3841dea630f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_db8b2a7d0643d6d954f5e54dde462c6becce7545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_aa8d007a8377e00c6a3e8949505703725ea39dee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_d6168659922479c7991bd4e34338fb5db83d3feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_55a588dc88e23a21e9b97c1339110856f6c9dc59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_82e1246b537139d4b1206c4eede320a912bc65f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_f3a515d37c6f554957fa3f27bf8b79b0dacf9125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.1/cabf146d220dcd70a2972166cd1bfae200b97eff/adapter-rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cabf146d220dcd70a2972166cd1bfae200b97eff">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.1_c3cb3887bdced41cb3edcd5107491fdeb85bfc0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_7b73e1c9813aed5c519850c4438a8e3574d4d7c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_70590d3d9004686f367d8bdd5c17f03d5c0a2012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_7c4d4b04b14595adf575bf2599a1cfd870c1b279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_4e78c938c57fcc3cb5d44d29920227fbcf1aabe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_4f18e3754b5e87ecb99653809f756b0a56edbd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_ef8a2786966ec743c848c21562f23fb8721226b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_8130f1ec7a7dba708da4da8d87a494b8df805f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_c2f7b0a74344ceda0e91a35f64bd65cae5210f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_958ed8d636ab95e8cc3478a8f961a2e579a87214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_2e7898fa343eef282a145ed589226d4d175c59fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit-mock/2.0.0-beta3/c15c8044f46b14fbbe9d8a96943e4be7987ed4b3/retrofit-mock-2.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c15c8044f46b14fbbe9d8a96943e4be7987ed4b3">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/retrofit-mock-2.0.0-beta3_4ac99dc93a2b31442ae224cf71c883dcb88efeec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.jakewharton.picasso/picasso2-okhttp3-downloader/1.1.0/f4f77eb62269c977c154765cd01587eda6488273/picasso2-okhttp3-downloader-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f4f77eb62269c977c154765cd01587eda6488273">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/picasso2-okhttp3-downloader-1.1.0_dcd172d87f19dc6a03f749cbc66168444cadf0f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/okhttp-3.4.2_791c08fdbf77d2ce35982026b4988ba789cf27e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.2/d99260c62d97beae99ed1f779a35a9bf48c094a6/logging-interceptor-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d99260c62d97beae99ed1f779a35a9bf48c094a6">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.2_634d70f9783e1fb4411506a3fe5748ea6899d050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_f6f52bb9473fca8b07529495b3dae76ac2c570fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/okio-1.9.0_db67bb22dd6f30715742bc65e852b19061ce92db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_573b1158fcca16bcce4b658aa566aae6428f28e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_61e7a0d88fe3e03c4e1af683eda83f001afe0ec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.0/support-annotations-22.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.0_8fd37407909d750908ffaaaebc195b9fa5639407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_2848c19f132f628608366feff5b56522864462a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/adb_iot/Documents/myProjects/stargazersList/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_4aa39956e0311898da8f1e7db7c45a8a5469ecbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adb_iot/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.2/df90a91dbb9a7d942361a5613b1666e38dca4844/rxjava-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df90a91dbb9a7d942361a5613b1666e38dca4844">
+        <dex dex="/Users/adb_iot/Documents/Whirlpool_app/subitotest/app/build/intermediates/pre-dexed/debug/rxjava-1.1.2_12849e34d73c23fb747b261a0eaceb3510f1b5f9.jar" />
+    </item>
+
+</items>
